@@ -85,7 +85,7 @@ A ligação entre `fact_anuncios` e `fact_estoque` é virtual, feita via `TREATA
 └── BI_precificacao_demo.pbix
 ```
 
-A documentação completa de cada medida — o que ela calcula e por quê — está em [`docs/dax-measures.md`](docs/dax-measures.md).
+A documentação completa de cada medida — o que ela calcula e por quê — está em [`dax-measures.md`](docs/dax-measures.md).
 
 ## Sobre os dados
 
